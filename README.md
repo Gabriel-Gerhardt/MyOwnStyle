@@ -1,14 +1,17 @@
 ## Project Name
 
-<Project fast description>
-  
-## How It Works
+Own
 
-<Specified project description>
+## Description
+
+Keeps your coding data and disponibilize it via API to coding agents
+
 
 ## Tech Stack
 
-<Stack of the project>
+Backend: Scala 3
+Frontend: Undetermined
+Database: Postgres or Cypher/Neo4J
 
 ## Diagram
 
@@ -16,7 +19,9 @@
  
 ## Use Cases
 
-<Why the project is useful>
+- Maintain your own patterns and strategies while coding with AI
+- It allows your agent to write more organic and unique code
+- Looks for gaps and give sugestions on where to improve
 
 ## Set-up
 
