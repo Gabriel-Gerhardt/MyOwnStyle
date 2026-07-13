@@ -10,9 +10,7 @@ Keeps your coding data and disponibilize it via API to coding agents
 ## Tech Stack
 
 Backend: Scala 3 
-
 Frontend: Undetermined
-
 Database: Postgres or Cypher/Neo4J
 
 ## Diagram
