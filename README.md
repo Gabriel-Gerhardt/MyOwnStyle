@@ -1,6 +1,6 @@
 ## Project Name
 
-Own
+Ductus
 
 ## Description
 
